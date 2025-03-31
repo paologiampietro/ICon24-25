@@ -1,0 +1,13 @@
+joblib==1.4.2
+more-itertools==10.6.0
+numpy==2.2.4
+owlready2==0.47
+pandas==2.2.3
+pytholog==2.4.1
+python-dateutil==2.9.0.post0
+pytz==2025.1
+scikit-learn==1.6.1
+scipy==1.15.2
+six==1.17.0
+threadpoolctl==3.6.0
+tzdata==2025.1
